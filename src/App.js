@@ -5,7 +5,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-      <ColorSchemesExample></ColorSchemesExample>
+      <ColorSchemesExample/>
       </header>
     </div>
   );
